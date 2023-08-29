@@ -1,9 +1,9 @@
 import './App.css';
 import { useState } from 'react'
-import Header from './components/Header'
-import Card from './components/Card'
-import RogueImage from './images/ray-reyes-ND_kgsnEIeY-unsplash.jpg'
-import ElevenImage from './images/eva-andria-dHR6wZKanhY-unsplash.jpg'
+import Header from '../Header/Header'
+import Card from '../Card/Card'
+import RogueImage from '../../images/ray-reyes-ND_kgsnEIeY-unsplash.jpg'
+import ElevenImage from '../../images/eva-andria-dHR6wZKanhY-unsplash.jpg'
 
 function App() {
   const [data, setData] = useState([
@@ -16,7 +16,7 @@ function App() {
     {
       title: "Eleven",
       image: ElevenImage,
-      price: "90",
+      price: "180",
       description: "Simple yet effective. A sleeper that will keep you in the lead."
     }
   ])
