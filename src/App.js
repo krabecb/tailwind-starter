@@ -10,14 +10,14 @@ function App() {
     {
       title: "Rogue Blade",
       image: RogueImage,
-      price: "50",
-      description: "I don't know anything about bowling balls I just got this idea from a friend"
+      price: "250",
+      description: "Trusted over the years by professional bowlers. All the serious bowlers prefer Rogue."
     },
     {
       title: "Eleven",
       image: ElevenImage,
       price: "90",
-      description: "I don't even see the brand on this ball, let's just say the brand is Eleven."
+      description: "Simple yet effective. A sleeper that will keep you in the lead."
     }
   ])
   
