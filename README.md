@@ -20,7 +20,7 @@ Here is the initial state data we'll apply style to:
     {
       title: "Eleven",
       image: ElevenImage,
-      price: "90",
+      price: "180",
       description: "Simple yet effective. A sleeper that will keep you in the lead."
     }
 ]
