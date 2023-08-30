@@ -37,9 +37,9 @@ Here is the initial state data we'll apply style to:
 ### Tailwind Installation process
 - [x] Install Tailwind CSS
 - [x] Configure template paths
-- [x] Add Taildwind directives to CSS
+- [x] Add Tailwind directives to CSS
 
 ## We Do
 - [ ] Review how Tailwind directives affect default styling
 - [ ] Review tailwind.config.js
-- [ ] Use Tailwind classes to style Card and Header components
+- [ ] Use Tailwind classes to style the App, Card, and Header components

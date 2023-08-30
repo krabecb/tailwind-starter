@@ -23,8 +23,9 @@ function App() {
   
   const cards = data.map((eachData, idx) => <Card key={idx} data={eachData} />)
   return (
-    <div className="App">
+    <div className="">
       <Header />
+      <h2 className="">Available Products</h2>
       {cards}
     </div>
   );
